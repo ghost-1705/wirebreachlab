@@ -6,5 +6,6 @@ coverage/
 .DS_Store
 *.log
 *.local
+*.zip
 .env*
 !.env.example
