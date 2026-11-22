@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse Lab",
+  "description": "Interactive Packet Tracer-style Cyber Attack Simulator with draggable network topologies, clickable node terminals, animated packets, and an OSI payload inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
